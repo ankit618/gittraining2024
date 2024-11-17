@@ -1,1 +1,2 @@
 I have 1st text file
+second 
